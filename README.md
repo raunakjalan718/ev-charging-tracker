@@ -11,7 +11,7 @@ Welcome to the **EV Charging Station** project! This web application is designed
 - **Interactive Map**: Integration of a map to visualize charging station locations. 🗺️
 
 ## 🎥 Project Demo
-- **Check out the project demo on YouTube: https://youtu.be/4yTjRXGUSos
+- **Check out the project demo on YouTube**: https://youtu.be/4yTjRXGUSos
 
 ## 🛠️ Technologies Used
 
