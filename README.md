@@ -10,7 +10,7 @@ Welcome to the **EV Charging Station** project! This web application is designed
 - **Real-Time Charging Availability**: Users can find the nearest charging stations with up-to-date information. 📍
 - **Interactive Map**: Integration of a map to visualize charging station locations. 🗺️
 
-##🎥 Project Demo
+## 🎥 Project Demo
 - **Check out the project demo on YouTube: https://youtu.be/4yTjRXGUSos
 
 ## 🛠️ Technologies Used
